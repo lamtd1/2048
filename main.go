@@ -45,6 +45,6 @@ func main() {
 		}
 		check.RandGen(&arr)
 	}
-	fmt.Println("test")
+	fmt.Println("test 123")
 
 }
